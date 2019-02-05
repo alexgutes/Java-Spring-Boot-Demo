@@ -1,0 +1,11 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - GreetingsApplication",
+      "request": "launch",
+      "mainClass": "com.thinkful.greetings.GreetingsApplication",
+      "projectName": "greetings"
+    }
+  ]
+}
